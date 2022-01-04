@@ -1,0 +1,1358 @@
+./logs/01-Jan-22 00:17:31::__main__::INFO::{'positions': ['Data engineer', None, None], 'locations': ['UNITED STATES'], 'Remote': ['Remote', {'Resume': '/media/linux/New Volume/Resume/Rahul_DE_1221.doc', 'Cover Letter': '/media/linux/New Volume/Resume/Rahul_DE_1221.doc'}]}
+./logs/01-Jan-22 00:17:31::__main__::INFO::Welcome to Easy Apply Bot
+./logs/01-Jan-22 00:17:31::__main__::INFO::current directory is : /media/linux/New Volume/linkedinjobs/Linkedin-Jobs
+./logs/01-Jan-22 00:17:31::__main__::INFO::0 jobIDs found
+./logs/01-Jan-22 00:17:31::__main__::INFO::Logging in.....Please wait :)  
+./logs/01-Jan-22 00:17:46::__main__::INFO::Applying to Data engineer: UNITED STATES
+./logs/01-Jan-22 00:17:46::__main__::INFO::Looking for jobs.. Please wait..
+./logs/01-Jan-22 00:17:51::__main__::INFO::Lock avoided.
+./logs/01-Jan-22 00:18:12::__main__::INFO::Looking for jobs.. Please wait..
+./logs/01-Jan-22 00:18:12::__main__::INFO::599.0 minutes left in this search
+./logs/01-Jan-22 00:18:12::__main__::DEBUG::Sleeping for 4.3
+./logs/01-Jan-22 00:18:54::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:19:02::__main__::INFO::Application Submitted
+./logs/01-Jan-22 00:19:04::__main__::INFO::
+Position 1:
+ (7) Senior Data Engineer | Locally | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:19:17::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:19:30::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 00:19:33::__main__::INFO::
+Position 2:
+ (7) Senior Data Engineer | Haystacks.AI | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:19:47::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:19:59::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 00:20:00::__main__::INFO::
+Position 3:
+ (7) Senior Data Engineer | phData | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:20:16::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:20:29::__main__::INFO::Application Submitted
+./logs/01-Jan-22 00:20:31::__main__::INFO::
+Position 4:
+ (7) Data Engineer | Purple Drive Technologies | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:20:46::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:20:57::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 00:20:59::__main__::INFO::
+Position 5:
+ (7) Lead Data Engineer | phData | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:21:14::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:21:26::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 00:21:28::__main__::INFO::
+Position 6:
+ (7) Senior Data Engineer | phData | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:21:42::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:21:53::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 00:21:56::__main__::INFO::
+Position 7:
+ (7) Senior Data Engineer | SpanIdea Systems | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:22:10::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:22:25::__main__::INFO::Application Submitted
+./logs/01-Jan-22 00:22:27::__main__::INFO::
+Position 8:
+ (7) Data Engineer | DataStunt | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:22:41::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:22:57::__main__::INFO::Application Submitted
+./logs/01-Jan-22 00:22:59::__main__::INFO::
+Position 9:
+ (7) Data Engineer/Architect | TALENT Software Services | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:23:13::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:23:29::__main__::INFO::Application Submitted
+./logs/01-Jan-22 00:23:31::__main__::INFO::
+Position 10:
+ (7) Data Engineer (AWS) | WorldLink US | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:23:45::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:23:52::__main__::INFO::Application Submitted
+./logs/01-Jan-22 00:23:54::__main__::INFO::
+Position 11:
+ (7) Data Engineer | Collabera Inc. | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:24:08::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:24:25::__main__::INFO::Application Submitted
+./logs/01-Jan-22 00:24:26::__main__::INFO::
+Position 12:
+ (7) Lead Data Engineer | Ex Parte | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:24:41::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:24:56::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 00:24:58::__main__::INFO::
+Position 13:
+ (7) Senior Data Engineer | Brivo | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:25:12::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:25:24::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 00:25:26::__main__::INFO::
+Position 14:
+ (7) Senior Data Engineer | phData | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:25:40::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:25:52::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 00:25:54::__main__::INFO::
+Position 15:
+ (7) Lead Data Engineer | phData | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:26:08::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:26:25::__main__::INFO::Application Submitted
+./logs/01-Jan-22 00:26:27::__main__::INFO::
+Position 16:
+ (7) Spark Data Engineer | Computomic | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:26:42::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:26:54::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 00:26:56::__main__::INFO::
+Position 17:
+ (7) Senior Data Engineer | Ridian | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:27:10::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:27:23::__main__::INFO::Application Submitted
+./logs/01-Jan-22 00:27:25::__main__::INFO::
+Position 18:
+ (7) Data Engineer II | CareSource | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:27:40::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:27:46::__main__::INFO::Application Submitted
+./logs/01-Jan-22 00:27:49::__main__::INFO::
+Position 19:
+ (8) Senior Data Engineer | CloudSpace LLC | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:28:03::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:28:11::__main__::INFO::Application Submitted
+./logs/01-Jan-22 00:28:13::__main__::INFO::
+Position 20:
+ (8) REMOTE Sr. Data Engineer (up to 175k/equity) | Vaco | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:28:13::__main__::INFO::********count_application: 20************
+
+
+                                Time for a nap - see you in:11 min
+                            ****************************************
+
+
+./logs/01-Jan-22 00:39:33::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 00:39:33::__main__::INFO::
+Position 21:
+ Senior Data Engineer | Procorp Systems, Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 00:39:33::__main__::INFO::********count_application: 20************
+
+
+                                Time for a nap - see you in:10 min
+                            ****************************************
+
+
+./logs/01-Jan-22 00:50:31::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:50:43::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 00:50:45::__main__::INFO::
+Position 22:
+ AZURE DATA ENGINEER II - IV (ALWAYS REMOTE) | i4 Insurance Talent | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:50:59::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:51:13::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 00:51:14::__main__::INFO::
+Position 23:
+ Data Engineer/Data Architect/ETL Developer | Kelly | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:51:28::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 00:51:28::__main__::INFO::
+Position 24:
+ Senior Data Engineer | Xlysi LLC | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 00:51:42::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:51:53::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 00:51:55::__main__::INFO::
+Position 25:
+ Senior Data Engineer | phData | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:51:55::__main__::INFO::****************************************
+
+
+                    Going to next jobs page, YEAAAHHH!!
+                    ****************************************
+
+
+./logs/01-Jan-22 00:52:04::__main__::INFO::Lock avoided.
+./logs/01-Jan-22 00:52:24::__main__::INFO::565.0 minutes left in this search
+./logs/01-Jan-22 00:52:24::__main__::DEBUG::Sleeping for 3.7
+./logs/01-Jan-22 00:53:05::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 00:53:05::__main__::INFO::
+Position 26:
+ Data Engineer | TEK Staffing Solutions Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 00:53:18::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 00:53:18::__main__::INFO::
+Position 27:
+ Lead Data Engineer | phData | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 00:53:32::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:53:45::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 00:53:47::__main__::INFO::
+Position 28:
+ Senior Data Engineer | phData | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:54:01::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:54:14::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 00:54:16::__main__::INFO::
+Position 29:
+ Lead Data Engineer | phData | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:54:30::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:54:42::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 00:54:44::__main__::INFO::
+Position 30:
+ Senior Data Engineer | Ekanite Consulting | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:54:59::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 00:54:59::__main__::INFO::
+Position 31:
+ Data Engineers | ADDSOURCE | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 00:55:13::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:55:25::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 00:55:27::__main__::INFO::
+Position 32:
+ Senior Data Engineer | phData | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:55:41::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:55:53::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 00:55:55::__main__::INFO::
+Position 33:
+ Senior Data Engineer | phData | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:56:11::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 00:56:11::__main__::INFO::
+Position 34:
+ Hadoop Data Engineer | Digital Alpha | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 00:56:25::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 00:56:25::__main__::INFO::
+Position 35:
+ Senior Data Engineer | Skytop Staffing, Seattle WA | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 00:56:39::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 00:56:39::__main__::INFO::
+Position 36:
+ Staff Data Engineer | EngTal - Engineering Talent | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 00:56:53::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:57:05::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 00:57:07::__main__::INFO::
+Position 37:
+ Lead Data Engineer | phData | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:57:23::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 00:57:23::__main__::INFO::
+Position 38:
+ Senior Data Engineer | Jobot | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 00:57:37::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:57:48::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 00:57:50::__main__::INFO::
+Position 39:
+ Senior Data Engineer | phData | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:58:05::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 00:58:05::__main__::INFO::
+Position 40:
+ Senior Data Engineer | IDR, Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 00:58:18::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:58:32::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 00:58:33::__main__::INFO::
+Position 41:
+ Lead Data Engineer | phData | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:58:48::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 00:58:48::__main__::INFO::
+Position 42:
+ Senior Data Engineer | phData | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 00:59:02::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 00:59:02::__main__::INFO::
+Position 43:
+ Senior Data Engineer | Eliassen Group | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 00:59:15::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:59:27::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 00:59:29::__main__::INFO::
+Position 44:
+ Senior Data Engineer | phData | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 00:59:44::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 00:59:56::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 00:59:58::__main__::INFO::
+Position 45:
+ Lead Data Engineer | phData | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 01:00:12::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 01:00:25::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 01:00:27::__main__::INFO::
+Position 46:
+ Lead Data Engineer | phData | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 01:00:41::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 01:00:53::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 01:00:54::__main__::INFO::
+Position 47:
+ Lead Data Engineer | phData | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 01:01:10::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 01:01:22::__main__::INFO::Application Submitted
+./logs/01-Jan-22 01:01:24::__main__::INFO::
+Position 48:
+ Senior Data Engineer | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 01:01:39::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 01:01:51::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 01:01:53::__main__::INFO::
+Position 49:
+ Lead Data Engineer | phData | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 01:02:07::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 01:02:19::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 01:02:21::__main__::INFO::
+Position 50:
+ Senior Data Engineer | phData | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 01:02:21::__main__::INFO::****************************************
+
+
+                    Going to next jobs page, YEAAAHHH!!
+                    ****************************************
+
+
+./logs/01-Jan-22 01:02:29::__main__::INFO::Lock avoided.
+./logs/01-Jan-22 01:02:50::__main__::INFO::554.0 minutes left in this search
+./logs/01-Jan-22 01:02:50::__main__::DEBUG::Sleeping for 3.7
+./logs/01-Jan-22 01:03:31::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 01:03:39::__main__::INFO::Application Submitted
+./logs/01-Jan-22 01:03:41::__main__::INFO::
+Position 51:
+ Lead Data Engineer | Eliassen Group | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 01:03:55::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 01:04:06::__main__::INFO::Application Submitted
+./logs/01-Jan-22 01:04:08::__main__::INFO::
+Position 52:
+ Data Engineer | Jobot | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 01:04:08::__main__::INFO::********count_application: 40************
+
+
+                                Time for a nap - see you in:14 min
+                            ****************************************
+
+
+./logs/01-Jan-22 01:19:15::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 01:19:15::__main__::INFO::
+Position 53:
+ Senior Data Engineer- ML | Jobot | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 01:19:15::__main__::INFO::********count_application: 40************
+
+
+                                Time for a nap - see you in:14 min
+                            ****************************************
+
+
+./logs/01-Jan-22 01:34:26::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 01:34:26::__main__::INFO::
+Position 54:
+ Data Engineer | Jobot | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 01:34:26::__main__::INFO::********count_application: 40************
+
+
+                                Time for a nap - see you in:10 min
+                            ****************************************
+
+
+./logs/01-Jan-22 01:45:24::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 01:45:24::__main__::INFO::
+Position 55:
+ Senior Data Engineer | TechnoGen, Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 01:45:24::__main__::INFO::********count_application: 40************
+
+
+                                Time for a nap - see you in:11 min
+                            ****************************************
+
+
+./logs/01-Jan-22 01:57:09::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 01:57:09::__main__::INFO::
+Position 56:
+ Principal Data Engineer | Walmart | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 01:57:09::__main__::INFO::********count_application: 40************
+
+
+                                Time for a nap - see you in:13 min
+                            ****************************************
+
+
+./logs/01-Jan-22 02:10:30::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 02:10:30::__main__::INFO::
+Position 57:
+ Data Engineer | Moodys Northwest Consulting | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 02:10:30::__main__::INFO::********count_application: 40************
+
+
+                                Time for a nap - see you in:10 min
+                            ****************************************
+
+
+./logs/01-Jan-22 02:21:04::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 02:21:04::__main__::INFO::
+Position 58:
+ Lead Data Engineer | Raymour & Flanigan Furniture and Mattresses | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 02:21:04::__main__::INFO::********count_application: 40************
+
+
+                                Time for a nap - see you in:12 min
+                            ****************************************
+
+
+./logs/01-Jan-22 02:33:30::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 02:33:30::__main__::INFO::
+Position 59:
+ SAP Data Services Developer | Zilligent, LLC | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 02:33:30::__main__::INFO::********count_application: 40************
+
+
+                                Time for a nap - see you in:9 min
+                            ****************************************
+
+
+./logs/01-Jan-22 02:43:01::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 02:43:01::__main__::INFO::
+Position 60:
+ Data Engineer | Brooksource | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 02:43:01::__main__::INFO::********count_application: 40************
+
+
+                                Time for a nap - see you in:9 min
+                            ****************************************
+
+
+./logs/01-Jan-22 02:52:43::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 02:52:43::__main__::INFO::
+Position 61:
+ Senior Data Engineer | Jobot | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 02:52:43::__main__::INFO::********count_application: 40************
+
+
+                                Time for a nap - see you in:14 min
+                            ****************************************
+
+
+./logs/01-Jan-22 03:07:43::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 03:07:55::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 03:07:57::__main__::INFO::
+Position 62:
+ Lead Data Engineer | Solution Partners, Inc. | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 03:08:11::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:08:11::__main__::INFO::
+Position 63:
+ Senior Data Engineer | Jobot | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:08:26::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 03:08:38::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 03:08:40::__main__::INFO::
+Position 64:
+ Data Engineer | Motion Recruitment | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 03:08:54::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 03:09:07::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 03:09:09::__main__::INFO::
+Position 65:
+ Senior Data Engineer | Kipu Health | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 03:09:23::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:09:23::__main__::INFO::
+Position 66:
+ Database Developer | Eliassen Group | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:09:36::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:09:36::__main__::INFO::
+Position 67:
+ Data Engineer | Jobot | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:09:51::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 03:10:04::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 03:10:06::__main__::INFO::
+Position 68:
+ Senior Data Engineer | Sunrun | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 03:10:20::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:10:20::__main__::INFO::
+Position 69:
+ Senior Data Engineer | Hays | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:10:34::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 03:10:47::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 03:10:50::__main__::INFO::
+Position 70:
+ Senior Data Engineer | Pavilion | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 03:11:05::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 03:11:16::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 03:11:18::__main__::INFO::
+Position 71:
+ Data Engineer | FoxPro Technologies INC | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 03:11:32::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:11:32::__main__::INFO::
+Position 72:
+ Senior Data Engineer | Jobot | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:11:46::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:11:46::__main__::INFO::
+Position 73:
+ Lead Big Data Engineer | ICONMA | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:12:01::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:12:01::__main__::INFO::
+Position 74:
+ Data Engineer III | Walmart | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:12:15::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 03:12:27::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 03:12:29::__main__::INFO::
+Position 75:
+ Sr Azure Data Engineer | Baker & Taylor | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 03:12:29::__main__::INFO::****************************************
+
+
+                    Going to next jobs page, YEAAAHHH!!
+                    ****************************************
+
+
+./logs/01-Jan-22 03:12:38::__main__::INFO::Lock avoided.
+./logs/01-Jan-22 03:12:58::__main__::INFO::424.0 minutes left in this search
+./logs/01-Jan-22 03:12:58::__main__::DEBUG::Sleeping for 4.2
+./logs/01-Jan-22 03:13:40::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:13:40::__main__::INFO::
+Position 76:
+ Lead Data Engineer | Eliassen Group | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:13:54::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:13:54::__main__::INFO::
+Position 77:
+ Data Engineer | Jobot | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:14:07::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 03:14:19::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 03:14:21::__main__::INFO::
+Position 78:
+ Senior Data Engineer | phData | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 03:14:35::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:14:35::__main__::INFO::
+Position 79:
+ Senior Data Engineer | Eliassen Group | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:14:49::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:14:49::__main__::INFO::
+Position 80:
+ Lead Data Engineer | Jobot | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:15:03::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:15:03::__main__::INFO::
+Position 81:
+ Data Engineer with ETL/SSIS | Modis | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:15:17::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:15:17::__main__::INFO::
+Position 82:
+ Principal Data Engineer | Walmart | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:15:31::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:15:31::__main__::INFO::
+Position 83:
+ SAP Data Services Developer | Zilligent, LLC | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:15:46::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:15:46::__main__::INFO::
+Position 84:
+ Lead Data Engineer | GSS Infotech | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:16:01::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:16:01::__main__::INFO::
+Position 85:
+ Data Engineer | Encore Technologies | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:16:15::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 03:16:26::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 03:16:28::__main__::INFO::
+Position 86:
+ Senior Data Engineer | STONE Resource Group | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 03:16:41::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 03:16:54::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 03:16:56::__main__::INFO::
+Position 87:
+ Lead Data Engineer | Solution Partners, Inc. | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 03:17:11::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:17:11::__main__::INFO::
+Position 88:
+ Senior Data Engineer | Jobot | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:17:25::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:17:25::__main__::INFO::
+Position 89:
+ Senior Data Engineer | Walmart | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:17:39::__main__::INFO::Clicking the EASY apply button
+./logs/01-Jan-22 03:17:45::__main__::INFO::Could not complete submission
+./logs/01-Jan-22 03:17:46::__main__::INFO::
+Position 90:
+ Staff Data Engineer. | Johnson & Johnson | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/01-Jan-22 03:18:01::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:18:01::__main__::INFO::
+Position 91:
+ Data Engineer | Van Kaizen | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:18:15::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:18:15::__main__::INFO::
+Position 92:
+ Data Engineer | Motion Recruitment | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:18:29::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:18:29::__main__::INFO::
+Position 93:
+ Staff Data Engineer. | Johnson & Johnson | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:18:44::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:18:44::__main__::INFO::
+Position 94:
+ AWS Data Engineer | Hays | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:18:57::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:18:57::__main__::INFO::
+Position 95:
+ Data Engineer | Blend360 | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:19:12::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:19:12::__main__::INFO::
+Position 96:
+ Database Developer | Eliassen Group | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:19:29::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:19:29::__main__::INFO::
+Position 97:
+ Data Engineer | Jobot | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:19:42::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:19:42::__main__::INFO::
+Position 98:
+ Data Engineer | Gotham Technology Group | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:19:56::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:19:56::__main__::INFO::
+Position 99:
+ Sr. Big Data Engineer | ALTA IT Services, LLC | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:20:10::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:20:10::__main__::INFO::
+Position 100:
+ Senior Data Engineer | Pavilion | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:20:10::__main__::INFO::****************************************
+
+
+                    Going to next jobs page, YEAAAHHH!!
+                    ****************************************
+
+
+./logs/01-Jan-22 03:20:18::__main__::INFO::Lock avoided.
+./logs/01-Jan-22 03:20:38::__main__::INFO::417.0 minutes left in this search
+./logs/01-Jan-22 03:20:38::__main__::DEBUG::Sleeping for 4.6
+./logs/01-Jan-22 03:21:19::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:21:19::__main__::INFO::
+Position 101:
+ Data Engineer | Graebel Companies, Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:21:33::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:21:33::__main__::INFO::
+Position 102:
+ Data Engineer III | Glidewell Dental | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:21:46::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:21:46::__main__::INFO::
+Position 103:
+ Senior Data Engineer | East Daley Capital | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:22:01::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:22:01::__main__::INFO::
+Position 104:
+ Data Engineer | Eliassen Group | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:22:15::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:22:15::__main__::INFO::
+Position 105:
+ Data Engineer | GovernmentCIO | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:22:29::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:22:29::__main__::INFO::
+Position 106:
+ Snowflake Data Engineer | Tredence Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:22:43::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:22:43::__main__::INFO::
+Position 107:
+ Data Engineer | SWI - Innovation Delivered | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:22:43::__main__::INFO::****************************************
+
+
+                    Going to next jobs page, YEAAAHHH!!
+                    ****************************************
+
+
+./logs/01-Jan-22 03:22:52::__main__::INFO::Lock avoided.
+./logs/01-Jan-22 03:23:12::__main__::INFO::414.0 minutes left in this search
+./logs/01-Jan-22 03:23:12::__main__::DEBUG::Sleeping for 4.0
+./logs/01-Jan-22 03:23:53::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:23:53::__main__::INFO::
+Position 126:
+ Sr. Data Engineer | Aptino, Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:24:07::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:24:07::__main__::INFO::
+Position 127:
+ Lead Data Engineer | Oakridge Staffing | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:24:21::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:24:21::__main__::INFO::
+Position 128:
+ Senior Data Engineer | Spectraforce Technologies | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:24:34::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:24:34::__main__::INFO::
+Position 129:
+ Data Engineer | Graebel Companies, Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:24:48::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:24:48::__main__::INFO::
+Position 130:
+ Lead Data Engineer | firsthand | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:25:01::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:25:01::__main__::INFO::
+Position 131:
+ Senior Data Engineer with Scala | Valarcorp Inc | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:25:16::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:25:16::__main__::INFO::
+Position 132:
+ Senior Data Engineer | LightBox | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:25:16::__main__::INFO::****************************************
+
+
+                    Going to next jobs page, YEAAAHHH!!
+                    ****************************************
+
+
+./logs/01-Jan-22 03:25:23::__main__::INFO::Lock avoided.
+./logs/01-Jan-22 03:25:44::__main__::INFO::412.0 minutes left in this search
+./logs/01-Jan-22 03:25:44::__main__::DEBUG::Sleeping for 3.7
+./logs/01-Jan-22 03:26:23::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:26:23::__main__::INFO::
+Position 151:
+ GCP/ BIG Query/ Hadoop Data Engineer | Hays | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:26:36::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:26:36::__main__::INFO::
+Position 152:
+ Staff Data Engineer | Quest Groups LLC | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:26:50::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:26:50::__main__::INFO::
+Position 153:
+ Senior Data Engineer | Dark Horse Talent | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:27:04::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:27:04::__main__::INFO::
+Position 154:
+ AZURE ML ENGINEER II - IV (ALWAYS REMOTE) | i4 Insurance Talent | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:27:19::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:27:19::__main__::INFO::
+Position 155:
+ Data Engineer | Empower Professionals Inc | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:27:32::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:27:32::__main__::INFO::
+Position 156:
+ Data Engineer | Egen | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:27:46::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:27:46::__main__::INFO::
+Position 157:
+ Big Data Engineer | Heliogic Staffing | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:27:46::__main__::INFO::****************************************
+
+
+                    Going to next jobs page, YEAAAHHH!!
+                    ****************************************
+
+
+./logs/01-Jan-22 03:27:59::__main__::INFO::Lock avoided.
+./logs/01-Jan-22 03:28:19::__main__::INFO::409.0 minutes left in this search
+./logs/01-Jan-22 03:28:19::__main__::DEBUG::Sleeping for 4.3
+./logs/01-Jan-22 03:29:01::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:29:01::__main__::INFO::
+Position 176:
+ Data Engineer | JoCo | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:29:15::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:29:15::__main__::INFO::
+Position 177:
+ REMOTE Data Engineer | CyberCoders | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:29:28::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:29:28::__main__::INFO::
+Position 178:
+ Senior Data Engineer | PRI Global | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:29:42::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:29:42::__main__::INFO::
+Position 179:
+ Data Engineer | Alto | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:29:55::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:29:55::__main__::INFO::
+Position 180:
+ Data Engineer | MATRIX Resources | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:30:09::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:30:09::__main__::INFO::
+Position 181:
+ Data Engineer III | doTERRA International LLC | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:30:22::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:30:22::__main__::INFO::
+Position 182:
+ Data Engineer | Georgia IT, Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:30:22::__main__::INFO::****************************************
+
+
+                    Going to next jobs page, YEAAAHHH!!
+                    ****************************************
+
+
+./logs/01-Jan-22 03:30:30::__main__::INFO::Lock avoided.
+./logs/01-Jan-22 03:30:50::__main__::INFO::406.0 minutes left in this search
+./logs/01-Jan-22 03:30:50::__main__::DEBUG::Sleeping for 4.1
+./logs/01-Jan-22 03:31:29::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:31:29::__main__::INFO::
+Position 201:
+ sr data engineer | Egen | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:31:43::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:31:43::__main__::INFO::
+Position 202:
+ Data Engineer | ElectroTempo, Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:31:57::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:31:57::__main__::INFO::
+Position 203:
+ Data Engineer | JK Partners | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:32:10::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:32:10::__main__::INFO::
+Position 204:
+ Senior Data Engineer - Payment Processing | CyberCoders | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:32:25::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:32:25::__main__::INFO::
+Position 205:
+ Senior Data Engineer | Stealth Startup | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:32:38::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:32:38::__main__::INFO::
+Position 206:
+ Senior Data Engineer | Pareto Solutions Group, Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:32:52::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:32:52::__main__::INFO::
+Position 207:
+ Database Engineer | The Judge Group India | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:32:52::__main__::INFO::****************************************
+
+
+                    Going to next jobs page, YEAAAHHH!!
+                    ****************************************
+
+
+./logs/01-Jan-22 03:33:00::__main__::INFO::Lock avoided.
+./logs/01-Jan-22 03:33:20::__main__::INFO::404.0 minutes left in this search
+./logs/01-Jan-22 03:33:20::__main__::DEBUG::Sleeping for 3.8
+./logs/01-Jan-22 03:33:59::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:33:59::__main__::INFO::
+Position 226:
+ Sr. Data Engineer (Azure) | Maxonic | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:34:14::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:34:14::__main__::INFO::
+Position 227:
+ Data Engineer (Remote) | Pliancy | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:34:27::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:34:27::__main__::INFO::
+Position 228:
+ External Data Engineer | Kimberly-Clark | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:34:40::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:34:40::__main__::INFO::
+Position 229:
+ Data Engineer | East Daley Capital | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:34:55::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:34:55::__main__::INFO::
+Position 230:
+ Sr. Data Engineer | DIVERSANT, LLC | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:35:09::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:35:09::__main__::INFO::
+Position 231:
+ Data Engineer / Backend Developer — Healthcare Analytics Startup | Validate Health | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:35:23::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:35:23::__main__::INFO::
+Position 232:
+ Lead Data Engineer | Fannie Mae | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:35:23::__main__::INFO::****************************************
+
+
+                    Going to next jobs page, YEAAAHHH!!
+                    ****************************************
+
+
+./logs/01-Jan-22 03:35:30::__main__::INFO::Lock avoided.
+./logs/01-Jan-22 03:35:50::__main__::INFO::401.0 minutes left in this search
+./logs/01-Jan-22 03:35:50::__main__::DEBUG::Sleeping for 3.9
+./logs/01-Jan-22 03:36:29::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:36:29::__main__::INFO::
+Position 251:
+ Big Data Engineer | Contech Systems Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:36:43::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:36:43::__main__::INFO::
+Position 252:
+ Data Integration Engineer - 100% Remote | Veracity Consulting, Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:36:56::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:36:56::__main__::INFO::
+Position 253:
+ Sr Data Engineer | Jobot | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:37:11::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:37:11::__main__::INFO::
+Position 254:
+ Senior Data Engineer | HireResources | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:37:25::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:37:25::__main__::INFO::
+Position 255:
+ Senior Data Engineer | R2 Global | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:37:39::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:37:39::__main__::INFO::
+Position 256:
+ Staff Data Engineer | NerdWallet | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:37:53::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:37:53::__main__::INFO::
+Position 257:
+ Senior Data Engineer | Impresiv Health | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:37:53::__main__::INFO::****************************************
+
+
+                    Going to next jobs page, YEAAAHHH!!
+                    ****************************************
+
+
+./logs/01-Jan-22 03:38:00::__main__::INFO::Lock avoided.
+./logs/01-Jan-22 03:38:21::__main__::INFO::399.0 minutes left in this search
+./logs/01-Jan-22 03:38:21::__main__::DEBUG::Sleeping for 4.5
+./logs/01-Jan-22 03:39:01::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:39:01::__main__::INFO::
+Position 276:
+ Senior Data Engineer | SpringPoint Technologies | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:39:15::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:39:15::__main__::INFO::
+Position 277:
+ Sr. Data Engineer | ettain group | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:39:28::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:39:28::__main__::INFO::
+Position 278:
+ Data Engineer | Strategic Staffing Solutions | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:39:42::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:39:42::__main__::INFO::
+Position 279:
+ Senior Data Engineer | Harnham | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:39:56::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:39:56::__main__::INFO::
+Position 280:
+ 100% Remote Senior Data Engineer | CyberCoders | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:40:10::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:40:10::__main__::INFO::
+Position 281:
+ Data Engineer | Intelletec | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:40:23::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:40:23::__main__::INFO::
+Position 282:
+ Data Engineer | Centrifuge LLC | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:40:23::__main__::INFO::****************************************
+
+
+                    Going to next jobs page, YEAAAHHH!!
+                    ****************************************
+
+
+./logs/01-Jan-22 03:40:31::__main__::INFO::Lock avoided.
+./logs/01-Jan-22 03:40:51::__main__::INFO::396.0 minutes left in this search
+./logs/01-Jan-22 03:40:51::__main__::DEBUG::Sleeping for 4.5
+./logs/01-Jan-22 03:41:32::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:41:32::__main__::INFO::
+Position 301:
+ Senior Data Engineer | Cisco | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:41:46::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:41:46::__main__::INFO::
+Position 302:
+ Data Engineer | Mitchell Martin Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:42:00::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:42:00::__main__::INFO::
+Position 303:
+ Senior Data Engineer | PeerSource | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:42:14::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:42:14::__main__::INFO::
+Position 304:
+ Azure Data Engineer | American Vassal | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:42:28::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:42:28::__main__::INFO::
+Position 305:
+ Principal Data Science Engineer - Enterprise Analytics | Nabler | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:42:42::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:42:42::__main__::INFO::
+Position 306:
+ Principal Data Engineer - AWS | Tiger Analytics | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:42:56::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:42:56::__main__::INFO::
+Position 307:
+ Data Engineer with Power BI exp. | Xiartech Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:42:56::__main__::INFO::****************************************
+
+
+                    Going to next jobs page, YEAAAHHH!!
+                    ****************************************
+
+
+./logs/01-Jan-22 03:43:04::__main__::INFO::Lock avoided.
+./logs/01-Jan-22 03:43:25::__main__::INFO::394.0 minutes left in this search
+./logs/01-Jan-22 03:43:25::__main__::DEBUG::Sleeping for 4.8
+./logs/01-Jan-22 03:44:07::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:44:07::__main__::INFO::
+Position 326:
+ Senior Data Engineer | Ginkgo Bioworks, Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:44:20::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:44:20::__main__::INFO::
+Position 327:
+ Data Engineer | Dunn Solutions Group | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:44:34::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:44:34::__main__::INFO::
+Position 328:
+ Senior Data Engineer | Eliassen Group | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:44:49::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:44:49::__main__::INFO::
+Position 329:
+ Lead Data Engineer | Harnham | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:45:04::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:45:04::__main__::INFO::
+Position 330:
+ Data Engineer | Maestro Technologies, Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:45:19::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:45:19::__main__::INFO::
+Position 331:
+ Senior Data Engineer | ClearCompany Talent Management Software | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:45:32::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:45:32::__main__::INFO::
+Position 332:
+ AWS Senior Data Engineer | Incedo Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:45:32::__main__::INFO::****************************************
+
+
+                    Going to next jobs page, YEAAAHHH!!
+                    ****************************************
+
+
+./logs/01-Jan-22 03:45:41::__main__::INFO::Lock avoided.
+./logs/01-Jan-22 03:46:02::__main__::INFO::391.0 minutes left in this search
+./logs/01-Jan-22 03:46:02::__main__::DEBUG::Sleeping for 3.9
+./logs/01-Jan-22 03:46:42::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:46:42::__main__::INFO::
+Position 351:
+ Data Engineer | Saansol Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:46:56::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:46:56::__main__::INFO::
+Position 352:
+ Sr. Data Engineer | Hilltop Holdings | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:47:11::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:47:11::__main__::INFO::
+Position 353:
+ Data Engineer-21-01516 | DataSoft Technologies | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:47:24::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:47:24::__main__::INFO::
+Position 354:
+ Data Engineer | Graebel Companies, Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:47:38::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:47:38::__main__::INFO::
+Position 355:
+ Data Engineer | Raas Infotek | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:47:52::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:47:52::__main__::INFO::
+Position 356:
+ Sr. Data Engineer | Privia Health | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:48:08::__main__::INFO::The button does not exist.
+./logs/01-Jan-22 03:48:08::__main__::INFO::
+Position 357:
+ GCP Data Engineer | Tredence Inc. | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Jan-22 03:48:08::__main__::INFO::****************************************
+
+
+                    Going to next jobs page, YEAAAHHH!!
+                    ****************************************
+
+
+./logs/01-Jan-22 03:48:15::__main__::INFO::Lock avoided.
+./logs/01-Jan-22 03:48:35::__main__::INFO::389.0 minutes left in this search
+./logs/01-Jan-22 03:48:35::__main__::DEBUG::Sleeping for 4.8

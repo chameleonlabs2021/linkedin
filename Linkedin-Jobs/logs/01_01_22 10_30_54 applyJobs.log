@@ -1,0 +1,11 @@
+./logs/01-Jan-22 10:30:54::__main__::INFO::{'positions': ['Data engineer', None, None], 'locations': ['UNITED STATES'], 'Remote': ['Remote', {'Resume': '/media/linux/New Volume/Resume/Rahul_DE_1221.doc', 'Cover Letter': '/media/linux/New Volume/Resume/Rahul_DE_1221.doc'}]}
+./logs/01-Jan-22 10:30:54::__main__::INFO::Welcome to Easy Apply Bot
+./logs/01-Jan-22 10:30:54::__main__::INFO::current directory is : /media/linux/New Volume/linkedinjobs/Linkedin-Jobs
+./logs/01-Jan-22 10:30:54::__main__::INFO::0 jobIDs found
+./logs/01-Jan-22 10:30:54::__main__::INFO::Logging in.....Please wait :)  
+./logs/01-Jan-22 10:31:05::__main__::INFO::Applying to Data engineer: UNITED STATES
+./logs/01-Jan-22 10:31:05::__main__::INFO::Looking for jobs.. Please wait..
+./logs/01-Jan-22 10:31:09::__main__::INFO::Lock avoided.
+./logs/01-Jan-22 10:31:29::__main__::INFO::Looking for jobs.. Please wait..
+./logs/01-Jan-22 10:31:29::__main__::INFO::599.0 minutes left in this search
+./logs/01-Jan-22 10:31:29::__main__::DEBUG::Sleeping for 4.5

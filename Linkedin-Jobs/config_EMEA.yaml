@@ -1,0 +1,28 @@
+username: rahulptycoons@gmail.com
+password: Linkedin@1986
+
+positions:
+- Data engineer
+- # Another position you want to search for
+- # A third position you want to search for
+
+locations:
+- EMEA
+
+- # A second location you want to search in 
+
+# --------- Optional Parameters -------
+# uploads:
+ Resume: "/media/linux/New Volume/Resume/Rahul_DE_1221.doc"
+ Cover Letter: "/media/linux/New Volume/Resume/Rahul_DE_1221.doc"
+#  Photo: # PATH TO photo
+
+
+# output_filename:
+#  PATH TO OUTPUT FILE (default output.csv)
+
+# blacklist:
+# - # Company names you want to ignore
+
+#blackListTitles:
+#- # Add job titles you want to ignore
